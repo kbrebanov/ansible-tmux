@@ -1,2 +1,7 @@
 ---
 # tasks file for tmux (CentOS specific)
+
+- name: Install tmux packages
+  yum: name={{ item }} state=present
+  with_items: tmux_packages
+  tags: tmux
