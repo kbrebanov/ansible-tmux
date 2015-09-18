@@ -1,7 +1,7 @@
 tmux
 ====
 
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-kbrebanov.tmux-660198.svg)](https://galaxy.ansible.com/list#/roles/3951)
+[![Ansible Role](https://img.shields.io/ansible/role/3951.svg)](https://galaxy.ansible.com/list#/roles/3951)
 
 Installs tmux
 
