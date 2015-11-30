@@ -9,6 +9,10 @@
   when: ansible_distribution == "CentOS"
   tags: tmux
 
+- include: FreeBSD.yml
+  when: ansible_distribution == "FreeBSD"
+  tags: tmux
+
 - include: Ubuntu.yml
   when: ansible_distribution == "Ubuntu"
   tags: tmux
