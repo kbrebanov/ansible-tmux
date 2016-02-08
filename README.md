@@ -1,7 +1,7 @@
 tmux
 ====
 
-[![Ansible Role](https://img.shields.io/ansible/role/3951.svg)](https://galaxy.ansible.com/list#/roles/3951)
+[![Build Status](https://travis-ci.org/kbrebanov/ansible-tmux.svg?branch=master)](https://travis-ci.org/kbrebanov/ansible-tmux)
 
 Installs tmux
 
